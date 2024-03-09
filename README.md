@@ -1,4 +1,4 @@
-# seizure-detection-for
+# seizure-detection
 This repository contains code for a logistic regression-based model designed for seizure detection in pediatric EEG recordings. The model, trained and tested on a dataset collected at the Children’s Hospital Boston, leverages distinctive EEG patterns associated with seizures to achieve high accuracy in identifying seizure events.
 
 The dataset comprises EEG recordings from pediatric subjects with intractable seizures, monitored for up to several days following withdrawal of anti-seizure medication. The dataset includes three sets:
